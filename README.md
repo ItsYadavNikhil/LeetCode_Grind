@@ -11,12 +11,14 @@ Solving and Documenting my LeetCode Journey
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +29,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -39,6 +42,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
 |  |
 | ------- |
@@ -47,6 +51,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Dynamic Programming
 |  |
 | ------- |
