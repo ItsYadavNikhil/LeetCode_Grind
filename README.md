@@ -9,6 +9,7 @@ Solving and Documenting my LeetCode Journey
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
@@ -17,6 +18,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
@@ -25,10 +27,12 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
@@ -43,6 +47,7 @@ Solving and Documenting my LeetCode Journey
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
