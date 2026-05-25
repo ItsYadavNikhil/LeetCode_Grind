@@ -8,6 +8,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -19,6 +20,7 @@ Solving and Documenting my LeetCode Journey
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -45,4 +47,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
