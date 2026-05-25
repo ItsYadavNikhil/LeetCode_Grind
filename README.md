@@ -12,6 +12,7 @@ Solving and Documenting my LeetCode Journey
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
+| [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Solving and Documenting my LeetCode Journey
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
+| [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,12 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
