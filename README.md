@@ -13,6 +13,7 @@ Solving and Documenting my LeetCode Journey
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
@@ -38,6 +39,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -96,6 +98,7 @@ Solving and Documenting my LeetCode Journey
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
@@ -114,10 +117,12 @@ Solving and Documenting my LeetCode Journey
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 ## Enumeration
 |  |
@@ -131,4 +136,12 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
