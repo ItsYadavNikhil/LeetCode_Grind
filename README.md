@@ -17,6 +17,7 @@ Solving and Documenting my LeetCode Journey
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
@@ -100,6 +101,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
