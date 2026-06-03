@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int sum(int num1, int num2) {
+    int16_t sum(int8_t num1, int8_t num2) {
         return (num1+num2);
     }
 };
