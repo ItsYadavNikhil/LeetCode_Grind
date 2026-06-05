@@ -164,5 +164,6 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0584-find-customer-referee](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0595-big-countries) |
+| [1070-product-sales-analysis-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1070-product-sales-analysis-iii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
