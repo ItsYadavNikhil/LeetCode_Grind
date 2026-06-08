@@ -78,6 +78,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
@@ -179,8 +180,14 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
