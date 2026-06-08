@@ -30,6 +30,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +77,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
@@ -175,6 +177,7 @@ Solving and Documenting my LeetCode Journey
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
