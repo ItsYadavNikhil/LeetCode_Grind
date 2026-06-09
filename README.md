@@ -23,6 +23,7 @@ Solving and Documenting my LeetCode Journey
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -121,6 +122,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 ## Segment Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Solving and Documenting my LeetCode Journey
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,4 +205,9 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
