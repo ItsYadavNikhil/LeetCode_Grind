@@ -27,12 +27,12 @@ public:
                 temp2 = temp2->next;
             }
         }
-        while (temp2 != nullptr) {
+        if (temp2 != nullptr) {
             curr->next = temp2;
             curr = curr->next;
             temp2 = temp2->next;
         }
-        while (temp1 != nullptr) {
+        if (temp1 != nullptr) {
             curr->next = temp1;
             curr = curr->next;
             temp1 = temp1->next;
