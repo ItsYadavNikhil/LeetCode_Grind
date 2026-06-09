@@ -181,6 +181,7 @@ Solving and Documenting my LeetCode Journey
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -190,4 +191,12 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
