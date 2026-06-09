@@ -28,17 +28,13 @@ public:
     
     bool isPalindrome(ListNode* head) {
         ListNode* temp = head;
-        //* rev = new ListNode*;
         ListNode* rev = reverseList(head);
         while(temp != nullptr){
             if(temp->val != rev->val) {
-                //cout<<temp<<" "<<rev;
                 return false;
             }
             temp = temp->next;
             rev = rev->next;
-            //cout<<temp->val;
-            //cout<<rev->val;
         }
         return true;
     }
