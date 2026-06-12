@@ -17,6 +17,7 @@ Solving and Documenting my LeetCode Journey
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@ Solving and Documenting my LeetCode Journey
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +104,7 @@ Solving and Documenting my LeetCode Journey
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
