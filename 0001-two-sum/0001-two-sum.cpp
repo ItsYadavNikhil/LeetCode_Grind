@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //Have to Make more optimal
         for(int i=0;i<nums.size();i++){
             for(int j=i+1;j<nums.size();j++){
                 if(nums[i]+nums[j]==target){
@@ -10,5 +9,6 @@ public:
             }
         }
         return {0,0};
+        //return
     }
 };
