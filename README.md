@@ -10,6 +10,7 @@ Solving and Documenting my LeetCode Journey
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
@@ -238,6 +239,7 @@ Solving and Documenting my LeetCode Journey
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
