@@ -9,6 +9,7 @@ Solving and Documenting my LeetCode Journey
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
@@ -37,6 +38,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
@@ -239,6 +241,7 @@ Solving and Documenting my LeetCode Journey
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -249,4 +252,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
