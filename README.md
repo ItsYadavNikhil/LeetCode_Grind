@@ -225,6 +225,7 @@ Solving and Documenting my LeetCode Journey
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -262,13 +263,16 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
