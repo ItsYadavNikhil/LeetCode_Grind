@@ -105,6 +105,7 @@ Solving and Documenting my LeetCode Journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Solving and Documenting my LeetCode Journey
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
@@ -145,6 +147,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Segment Tree
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Solving and Documenting my LeetCode Journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -256,6 +260,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
 | ------- |
@@ -272,6 +277,7 @@ Solving and Documenting my LeetCode Journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +285,7 @@ Solving and Documenting my LeetCode Journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
