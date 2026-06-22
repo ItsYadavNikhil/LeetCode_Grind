@@ -229,6 +229,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Doubly-Linked List
@@ -269,6 +270,7 @@ Solving and Documenting my LeetCode Journey
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -283,5 +285,6 @@ Solving and Documenting my LeetCode Journey
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
