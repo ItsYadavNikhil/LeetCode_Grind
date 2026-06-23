@@ -235,6 +235,7 @@ Solving and Documenting my LeetCode Journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Doubly-Linked List
 |  |
@@ -277,6 +278,7 @@ Solving and Documenting my LeetCode Journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
@@ -294,4 +296,9 @@ Solving and Documenting my LeetCode Journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
