@@ -277,6 +277,7 @@ Solving and Documenting my LeetCode Journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -295,10 +296,12 @@ Solving and Documenting my LeetCode Journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
