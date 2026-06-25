@@ -10,6 +10,7 @@ Solving and Documenting my LeetCode Journey
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
@@ -102,6 +103,7 @@ Solving and Documenting my LeetCode Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
@@ -136,6 +138,7 @@ Solving and Documenting my LeetCode Journey
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
