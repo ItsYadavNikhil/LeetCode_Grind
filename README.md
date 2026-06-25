@@ -13,6 +13,7 @@ Solving and Documenting my LeetCode Journey
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +136,7 @@ Solving and Documenting my LeetCode Journey
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3689-maximum-total-subarray-value-i) |
