@@ -196,6 +196,7 @@ Solving and Documenting my LeetCode Journey
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
