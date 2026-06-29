@@ -16,6 +16,7 @@ Solving and Documenting my LeetCode Journey
 | [0051-n-queens](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@ Solving and Documenting my LeetCode Journey
 | [0053-maximum-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -290,6 +292,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0064-minimum-path-sum) |
 ## Tree
 |  |
