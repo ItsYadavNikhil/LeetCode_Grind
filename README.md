@@ -40,6 +40,7 @@ Solving and Documenting my LeetCode Journey
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3689-maximum-total-subarray-value-i) |
@@ -261,6 +262,7 @@ Solving and Documenting my LeetCode Journey
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Solving and Documenting my LeetCode Journey
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0064-minimum-path-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Solving and Documenting my LeetCode Journey
 | [0322-coin-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,4 +339,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
