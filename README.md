@@ -10,6 +10,7 @@ Solving and Documenting my LeetCode Journey
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
@@ -145,6 +146,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
