@@ -28,6 +28,7 @@ Solving and Documenting my LeetCode Journey
 | [0322-coin-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
+| [0485-max-consecutive-ones](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
