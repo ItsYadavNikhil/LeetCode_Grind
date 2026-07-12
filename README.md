@@ -221,6 +221,7 @@ Solving and Documenting my LeetCode Journey
 | [0009-palindrome-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -258,6 +259,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -300,6 +302,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
