@@ -7,6 +7,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@ Solving and Documenting my LeetCode Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
@@ -168,6 +170,7 @@ Solving and Documenting my LeetCode Journey
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0860-lemonade-change) |
