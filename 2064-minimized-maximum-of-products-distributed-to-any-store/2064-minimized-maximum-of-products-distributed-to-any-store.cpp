@@ -13,7 +13,6 @@ public:
     int minimizedMaximum(int n, vector<int>& quantities) {
         int l = 1, r = 1e5, ans = -1;
         while(l <= r) {
-            // int mid = (l+(r-l))/2;
             int mid = l+(r-l)/2;
             if(valid(quantities,n,mid)) {
                 ans = mid;
