@@ -323,6 +323,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
