@@ -32,6 +32,7 @@ Solving and Documenting my LeetCode Journey
 | [0485-max-consecutive-ones](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0860-lemonade-change) |
@@ -87,6 +88,7 @@ Solving and Documenting my LeetCode Journey
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -238,6 +240,7 @@ Solving and Documenting my LeetCode Journey
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
