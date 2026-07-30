@@ -302,6 +302,7 @@ Solving and Documenting my LeetCode Journey
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -354,6 +355,7 @@ Solving and Documenting my LeetCode Journey
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -365,6 +367,7 @@ Solving and Documenting my LeetCode Journey
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
@@ -377,6 +380,7 @@ Solving and Documenting my LeetCode Journey
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
