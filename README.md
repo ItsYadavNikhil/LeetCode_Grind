@@ -187,6 +187,7 @@ Solving and Documenting my LeetCode Journey
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
@@ -194,6 +195,7 @@ Solving and Documenting my LeetCode Journey
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
@@ -248,6 +250,7 @@ Solving and Documenting my LeetCode Journey
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
