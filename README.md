@@ -410,4 +410,12 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
