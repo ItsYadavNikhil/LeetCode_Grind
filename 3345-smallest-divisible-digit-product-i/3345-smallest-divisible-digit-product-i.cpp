@@ -9,7 +9,6 @@ public:
                 p*=rem;
                 n=n/10;
             }
-            cout<<p<<" "<<pre;
             if(p%t == 0) return pre;
             else{
                 n=++pre;
