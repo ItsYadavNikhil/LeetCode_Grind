@@ -5,9 +5,8 @@ public:
         while(true){
             p = 1;
             while(n>0){
-                int rem = n % 10;
-                p*=rem;
-                n=n/10;
+                p*= (n % 10);
+                n/=10;
             }
             if(p%t == 0) return pre;
             else{
