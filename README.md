@@ -10,6 +10,7 @@ Solving and Documenting my LeetCode Journey
 | [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
@@ -124,6 +125,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
