@@ -252,6 +252,7 @@ Solving and Documenting my LeetCode Journey
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
