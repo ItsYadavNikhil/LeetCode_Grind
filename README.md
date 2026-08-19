@@ -55,6 +55,7 @@ Solving and Documenting my LeetCode Journey
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -259,6 +260,7 @@ Solving and Documenting my LeetCode Journey
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2469-convert-the-temperature) |
