@@ -60,6 +60,7 @@ Solving and Documenting my LeetCode Journey
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -274,6 +275,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
