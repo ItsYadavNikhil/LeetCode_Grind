@@ -279,6 +279,7 @@ Solving and Documenting my LeetCode Journey
 | [3232-find-if-digit-game-can-be-won](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
