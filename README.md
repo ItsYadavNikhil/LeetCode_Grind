@@ -60,6 +60,7 @@ Solving and Documenting my LeetCode Journey
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -128,6 +129,7 @@ Solving and Documenting my LeetCode Journey
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Solving and Documenting my LeetCode Journey
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
