@@ -21,6 +21,7 @@ Solving and Documenting my LeetCode Journey
 | [0055-jump-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
@@ -272,6 +273,7 @@ Solving and Documenting my LeetCode Journey
 | [0009-palindrome-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
