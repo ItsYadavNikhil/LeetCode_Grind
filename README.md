@@ -168,6 +168,7 @@ Solving and Documenting my LeetCode Journey
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -482,4 +483,20 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
