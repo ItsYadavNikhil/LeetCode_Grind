@@ -142,6 +142,7 @@ Solving and Documenting my LeetCode Journey
 | [0011-container-with-most-water](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
@@ -219,6 +220,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
