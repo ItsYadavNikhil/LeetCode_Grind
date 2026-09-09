@@ -283,6 +283,7 @@ Solving and Documenting my LeetCode Journey
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
@@ -505,4 +506,24 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
