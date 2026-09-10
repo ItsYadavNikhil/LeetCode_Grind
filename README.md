@@ -42,6 +42,7 @@ Solving and Documenting my LeetCode Journey
 | [0860-lemonade-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
