@@ -58,6 +58,7 @@ Solving and Documenting my LeetCode Journey
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ Solving and Documenting my LeetCode Journey
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
+| [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ Solving and Documenting my LeetCode Journey
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
+| [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
 |  |
