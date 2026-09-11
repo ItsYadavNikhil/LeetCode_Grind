@@ -194,6 +194,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
@@ -282,6 +283,7 @@ Solving and Documenting my LeetCode Journey
 | [0050-powx-n](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
@@ -533,4 +535,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
