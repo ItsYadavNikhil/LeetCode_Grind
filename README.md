@@ -56,6 +56,7 @@ Solving and Documenting my LeetCode Journey
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
@@ -191,6 +192,7 @@ Solving and Documenting my LeetCode Journey
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
