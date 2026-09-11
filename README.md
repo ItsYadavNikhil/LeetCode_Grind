@@ -233,6 +233,7 @@ Solving and Documenting my LeetCode Journey
 | [0151-reverse-words-in-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -297,6 +298,7 @@ Solving and Documenting my LeetCode Journey
 | [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -321,6 +323,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
