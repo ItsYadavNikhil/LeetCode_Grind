@@ -229,6 +229,7 @@ Solving and Documenting my LeetCode Journey
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3136-valid-word](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3136-valid-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
