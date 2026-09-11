@@ -196,6 +196,7 @@ Solving and Documenting my LeetCode Journey
 | [0035-search-insert-position](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
@@ -287,6 +288,7 @@ Solving and Documenting my LeetCode Journey
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
