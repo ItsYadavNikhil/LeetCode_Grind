@@ -6,7 +6,7 @@ public:
         for(char c : chars) {
             map[c]++;
         }
-        for(auto word : words) {
+        for(const string& word : words) {
             unordered_map<char,int> temp_map = map;
             bool flag = true;
             for(char c : word) {
