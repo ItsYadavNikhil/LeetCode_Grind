@@ -52,6 +52,7 @@ Solving and Documenting my LeetCode Journey
 | [0994-rotting-oranges](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1470-shuffle-the-array) |
@@ -91,6 +92,7 @@ Solving and Documenting my LeetCode Journey
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0930-binary-subarrays-with-sum) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ Solving and Documenting my LeetCode Journey
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
@@ -236,6 +239,7 @@ Solving and Documenting my LeetCode Journey
 | [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3136-valid-word) |
