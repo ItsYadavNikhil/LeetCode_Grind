@@ -53,6 +53,7 @@ Solving and Documenting my LeetCode Journey
 | [1004-max-consecutive-ones-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1470-shuffle-the-array) |
@@ -306,6 +307,7 @@ Solving and Documenting my LeetCode Journey
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
