@@ -238,6 +238,7 @@ Solving and Documenting my LeetCode Journey
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
