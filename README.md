@@ -319,6 +319,7 @@ Solving and Documenting my LeetCode Journey
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -432,6 +433,7 @@ Solving and Documenting my LeetCode Journey
 | [0342-power-of-four](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
