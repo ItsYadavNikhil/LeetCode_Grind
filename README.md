@@ -84,6 +84,7 @@ Solving and Documenting my LeetCode Journey
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +158,7 @@ Solving and Documenting my LeetCode Journey
 | [0125-valid-palindrome](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
@@ -301,6 +303,7 @@ Solving and Documenting my LeetCode Journey
 | [0066-plus-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
@@ -567,4 +570,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
