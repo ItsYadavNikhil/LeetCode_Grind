@@ -62,6 +62,7 @@ Solving and Documenting my LeetCode Journey
 | [1480-running-sum-of-1d-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
@@ -448,6 +449,7 @@ Solving and Documenting my LeetCode Journey
 | [0994-rotting-oranges](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
