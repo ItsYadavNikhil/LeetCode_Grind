@@ -25,6 +25,7 @@ Solving and Documenting my LeetCode Journey
 | [0078-subsets](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0307-range-sum-query-mutable) |
@@ -273,6 +274,7 @@ Solving and Documenting my LeetCode Journey
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -306,6 +308,7 @@ Solving and Documenting my LeetCode Journey
 | [0069-sqrtx](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
@@ -349,6 +352,7 @@ Solving and Documenting my LeetCode Journey
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2413-smallest-even-multiple) |
@@ -579,4 +583,16 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
