@@ -168,6 +168,7 @@ Solving and Documenting my LeetCode Journey
 | [0923-3sum-with-multiplicity](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3794-reverse-string-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -254,6 +255,7 @@ Solving and Documenting my LeetCode Journey
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3136-valid-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3794-reverse-string-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3794-reverse-string-prefix) |
 ## Design
 |  |
 | ------- |
