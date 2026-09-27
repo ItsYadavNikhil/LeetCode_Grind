@@ -249,6 +249,7 @@ Solving and Documenting my LeetCode Journey
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3136-valid-word) |
@@ -347,6 +348,7 @@ Solving and Documenting my LeetCode Journey
 | [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -395,6 +397,7 @@ Solving and Documenting my LeetCode Journey
 | [0739-daily-temperatures](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1472-design-browser-history) |
+| [2390-removing-stars-from-a-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
