@@ -4,12 +4,13 @@ public:
         vector<int> res;
         int l=0,r=nums.size()-1;
         while(l<=r) {
-            if(nums[l]*nums[l] < nums[r]*nums[r]) {
-                res.insert(res.begin(), nums[r]*nums[r]);
+            int lsq = nums[l]*nums[l], rsq = nums[r]*nums[r];
+            if(lsq < rsq) {
+                res.insert(res.begin(), rsq);
                 r--;
             }
             else {
-                res.insert(res.begin(), nums[l]*nums[l]);
+                res.insert(res.begin(), lsq);
                 l++;
             }
         }
