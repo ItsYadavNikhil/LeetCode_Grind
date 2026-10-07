@@ -34,6 +34,7 @@ Solving and Documenting my LeetCode Journey
 | [0347-top-k-frequent-elements](https://github.com/ItsYadavNikhil/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0457-circular-array-loop) |
+| [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
@@ -187,6 +188,7 @@ Solving and Documenting my LeetCode Journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 | [0907-sum-of-subarray-minimums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -250,6 +252,7 @@ Solving and Documenting my LeetCode Journey
 | [0301-remove-invalid-parentheses](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0796-rotate-string) |
@@ -606,4 +609,12 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
