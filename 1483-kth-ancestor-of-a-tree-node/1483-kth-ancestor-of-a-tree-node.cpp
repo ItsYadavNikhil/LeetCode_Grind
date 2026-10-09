@@ -1,15 +1,15 @@
 class TreeAncestor {
-    vector<vector<int>> up;
 public:
+vector<vector<int>> up;
     TreeAncestor(int n, vector<int>& parent) {
         up.resize(n,vector<int>(17,0));
-        for (int i = 0;i<parent.size();i++) {
+        for(int i = 0; i< parent.size(); i++) {
             up[i][0] = parent[i];
         }
 
-        for (int k = 1;k<=16;k++) {
-            for (int i = 0;i<n;i++) {
-                if (up[i][k-1] == -1) up[i][k] = -1;
+        for(int k = 1; k<=16; k++) {
+            for(int i =0; i<n; i++) {
+                if(up[i][k-1] == -1) up[i][k] = -1;
                 else up[i][k] = up[up[i][k-1]][k-1];
             }
         }
@@ -17,13 +17,11 @@ public:
     
     int getKthAncestor(int node, int k) {
         int id = 0;
-        while (k!= 0) {
-            if (k % 2  == 1) {
-                node = up[node][id];
-            }
-            if (node == -1) return -1;
-                id++;
-                k /= 2;
+        while(k != 0) {
+            if(k % 2 == 1) node = up[node][id];
+            if(node == -1) return -1;
+            id++;
+            k /= 2;
         }
         return node;
     }
