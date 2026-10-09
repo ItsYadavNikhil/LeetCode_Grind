@@ -620,4 +620,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
