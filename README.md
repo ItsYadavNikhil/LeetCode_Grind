@@ -73,6 +73,7 @@ Solving and Documenting my LeetCode Journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -290,6 +291,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
