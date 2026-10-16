@@ -382,6 +382,7 @@ Solving and Documenting my LeetCode Journey
 | [0595-big-countries](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1070-product-sales-analysis-iii) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1757-recyclable-and-low-fat-products) |
 ## Trie
 |  |
