@@ -73,6 +73,7 @@ Solving and Documenting my LeetCode Journey
 | [1929-concatenation-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -131,6 +132,7 @@ Solving and Documenting my LeetCode Journey
 | [0977-squares-of-a-sorted-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -235,6 +237,7 @@ Solving and Documenting my LeetCode Journey
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
