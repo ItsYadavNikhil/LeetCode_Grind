@@ -39,6 +39,7 @@ Solving and Documenting my LeetCode Journey
 | [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0525-contiguous-array) |
+| [0553-optimal-division](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0645-set-mismatch) |
@@ -198,6 +199,7 @@ Solving and Documenting my LeetCode Journey
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
+| [0553-optimal-division](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0553-optimal-division) |
 | [0907-sum-of-subarray-minimums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -338,6 +340,7 @@ Solving and Documenting my LeetCode Journey
 | [0342-power-of-four](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0412-fizz-buzz) |
+| [0553-optimal-division](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0836-rectangle-overlap) |
