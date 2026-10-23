@@ -197,6 +197,7 @@ Solving and Documenting my LeetCode Journey
 | [0070-climbing-stairs](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0474-ones-and-zeroes) |
 | [0553-optimal-division](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0553-optimal-division) |
@@ -334,6 +335,7 @@ Solving and Documenting my LeetCode Journey
 | [0202-happy-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0292-nim-game) |
@@ -417,6 +419,7 @@ Solving and Documenting my LeetCode Journey
 | [0050-powx-n](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0342-power-of-four) |
 ## Stack
