@@ -10,12 +10,16 @@ public:
         mp['C'] = 100;
         mp['D'] = 500;
         mp['M'] = 1000;
-        for(int i = s.size()-1; i >= 0; i--) {
-            if(i>=1 && mp[s[i]] > mp[s[i-1]]) {
-                sum += mp[s[i]] - mp[s[i-1]];
-                i--; continue;
+        int prev = 0;
+        for (int i = s.size() - 1; i >= 0; i--) {
+            int curr = mp[s[i]];
+            if (curr < prev) {
+                sum -= curr;
             }
-            sum += mp[s[i]];
+            else {
+                sum += curr;
+                prev = curr;
+            }
         }
         return sum;
     }
