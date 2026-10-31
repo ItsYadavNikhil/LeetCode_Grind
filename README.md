@@ -89,6 +89,7 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0141-linked-list-cycle) |
@@ -258,6 +259,7 @@ Solving and Documenting my LeetCode Journey
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0125-valid-palindrome) |
@@ -327,6 +329,7 @@ Solving and Documenting my LeetCode Journey
 | ------- |
 | [0007-reverse-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0066-plus-one) |
