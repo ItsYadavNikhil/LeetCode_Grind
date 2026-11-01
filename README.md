@@ -244,6 +244,7 @@ Solving and Documenting my LeetCode Journey
 | [0349-intersection-of-two-arrays](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0731-my-calendar-ii](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0875-koko-eating-bananas) |
@@ -658,4 +659,8 @@ Solving and Documenting my LeetCode Journey
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
