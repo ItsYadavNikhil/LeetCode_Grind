@@ -6,7 +6,6 @@ public:
             sum+=gain[i];
             gain[i] = sum;
             maxi = max(maxi,gain[i]);
-            cout<<maxi<<endl;
         }
         return maxi;
     }
