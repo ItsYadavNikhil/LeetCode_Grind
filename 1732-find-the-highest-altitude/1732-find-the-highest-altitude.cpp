@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int largestAltitude(vector<int>& gain) {
+        int sum = 0, maxi = 0;
+        for(int i = 0; i<gain.size(); i++) {
+            sum+=gain[i];
+            gain[i] = sum;
+            maxi = max(maxi,gain[i]);
+            cout<<maxi<<endl;
+        }
+        return maxi;
+    }
+};
