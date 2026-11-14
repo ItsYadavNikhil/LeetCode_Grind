@@ -238,6 +238,7 @@ Solving and Documenting my LeetCode Journey
 | [1480-running-sum-of-1d-array](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Solving and Documenting my LeetCode Journey
 | [2413-smallest-even-multiple](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ItsYadavNikhil/LeetCode_Grind/tree/master/3345-smallest-divisible-digit-product-i) |
